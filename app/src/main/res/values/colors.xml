@@ -1,0 +1,6 @@
+<resources>
+    <color name="fondo">#FFF9F3</color>
+    <color name="principal">#E07A5F</color>
+    <color name="secundario">#81B29A</color>
+    <color name="textoOscuro">#3D405B</color>
+</resources>
